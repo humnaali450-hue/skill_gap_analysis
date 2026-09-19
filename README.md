@@ -165,29 +165,6 @@ directly in VS Code.
 
 ---
 
-## ▶️ How to Run
-
-Run the notebook cells sequentially from the beginning.
-
-The notebook performs:
-
-1. Library installation/imports
-2. Dataset creation/loading
-3. Data preprocessing
-4. Text cleaning
-5. TF-IDF vectorization
-6. K-Means clustering
-7. Cluster analysis
-8. Job similarity calculation
-9. Job recommendation
-10. Skill-gap identification
-11. Readiness-score calculation
-12. Training recommendation
-13. Data visualization
-14. Result export
-
----
-
 ## 🔍 Main Features
 
 ### 1. Skill Clustering
@@ -372,41 +349,6 @@ Contains:
 * Intern name
 * Recommended job
 * Similarity score
-
----
-
-## 🚀 Future Enhancements
-
-The current project can be extended with:
-
-* Real-world LinkedIn/job-posting datasets
-* More advanced NLP techniques
-* Named Entity Recognition (NER) for automatic skill extraction
-* Sentence Transformers / BERT embeddings
-* Automated web-based job collection
-* A Streamlit dashboard
-* Login and HR administration
-* Interactive skill-gap charts
-* Personalized learning paths
-* Course recommendations from online learning platforms
-* Database integration using MySQL or PostgreSQL
-* Resume/CV upload and automatic skill extraction
-* Deep learning-based job matching
-
----
-
-## ⚠️ Limitations
-
-The initial version uses a predefined list of skills and sample job descriptions.
-
-Therefore, the accuracy of skill-gap analysis depends on:
-
-* Quality of the intern data
-* Quality of job descriptions
-* Completeness of the skill list
-* Accuracy of skill extraction
-
-For a production system, real-world datasets and more advanced NLP models should be used.
 
 ---
 
