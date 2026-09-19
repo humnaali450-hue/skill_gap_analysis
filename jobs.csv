@@ -1,0 +1,9 @@
+job_id,job_title,job_description
+1,Data Scientist,Python pandas numpy machine learning scikit learn SQL statistics data visualization
+2,Machine Learning Engineer,Python TensorFlow PyTorch machine learning deep learning Docker Git cloud deployment
+3,Data Analyst,SQL Excel Python pandas Power BI Tableau statistics data visualization
+4,Backend Developer,Java Spring SQL REST API Docker Git microservices
+5,Frontend Developer,HTML CSS JavaScript React TypeScript Git responsive design
+6,NLP Engineer,Python NLP transformers BERT machine learning PyTorch text processing scikit learn
+7,Business Intelligence Analyst,SQL Power BI Tableau Excel data warehouse data visualization business analytics
+8,Full Stack Developer,JavaScript React Node.js Express MongoDB HTML CSS Git REST API
